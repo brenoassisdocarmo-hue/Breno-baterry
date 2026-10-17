@@ -1,0 +1,6 @@
+{
+  "name": "Breno Battery - Monitor & Gerador de APK Android",
+  "description": "Aplicativo Android em Kotlin para monitoramento de bateria com interface azul-escura e preta, modos Simples e Técnico, saúde, voltagem, temperatura, histórico e download do projeto completo para gerar APK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
